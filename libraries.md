@@ -5,8 +5,6 @@ title: Libraries
 
 For general information on libraries, see [Using Libraries](tutorial/using_libraries.html) and [Creating Libraries](creating_libraries.html).
 
-To download libraries, see the [Resources page](http://www.textadventures.co.uk/quest/resources/).
-
 Documentation for the libraries on the Resources page is below.
 
 -   [Score Library](libraries/score_library.html)

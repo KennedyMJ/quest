@@ -38,7 +38,7 @@ Here are some things to think about before unleashing your game on an unsuspecti
 
 There are various places you can upload your game, so that other people can get hold of it:
 
--   [textadventures.co.uk](http://www.textadventures.co.uk/) - Hundreds of people visit this website every day, looking for text adventure games. They'll be able to play your game in their web browser - no matter what operating system they're using.
+-   [textadventures.co.uk](http://textadventures.co.uk/) - Hundreds of people visit this website every day, looking for text adventure games. They'll be able to play your game in their web browser - no matter what operating system they're using.
 -   [The IF Archive](http://www.ifarchive.org/).
 -   Or of course, you can upload it to your own webspace if you have any.
 
@@ -48,7 +48,7 @@ Once you have uploaded your game, you will want people to know where to get hold
 
 You can announce your game on:
 
--   the [Quest Games forum](http://www.textadventures.co.uk/forum/viewforum.php?f=5)
+-   the [textadventures.co.uk Game Announcements and Feedback forum](http://textadventures.co.uk/forum/games)
 -   the [intfiction.org forums](http://www.intfiction.org/forum/viewforum.php?f=19)
 -   [IFDB](http://ifdb.tads.org/)
 -   [rec.games.int-fiction newsgroup](http://groups.google.com/group/rec.games.int-fiction)

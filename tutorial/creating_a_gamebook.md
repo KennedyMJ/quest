@@ -40,7 +40,7 @@ You can go back to the Editor by clicking "Stop Game" in the top left of the scr
 
 ### Web version
 
-To create a new game, [log in to Quest](http://www.textadventures.co.uk/create/). You'll see the "New game" form.
+To create a new game, [log in to Quest](http://textadventures.co.uk/create/). You'll see the "New game" form.
 
 ![](Webnewgamebook.png "Webnewgamebook.png")
 

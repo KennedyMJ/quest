@@ -25,7 +25,7 @@ Assign yourself something that looks sensible. It is probably best to pick a sma
 
 You can also create items - if there's an obvious missing feature or bug, add it to the Issue Tracker, and assign it to yourself if you want to work on it. Check it's not a duplicate first. And if you're proposing a major new feature, please suggest it on the forums (or email me) first.
 
-Please ask me for help! I'm happy to answer your questions about how things work, and why things are the way they are. Just send an email to me at <alex@axeuk.com> or ask in the Quest Forum: <http://www.textadventures.co.uk/forum/viewforum.php?f=10>
+Please ask me for help! I'm happy to answer your questions about how things work, and why things are the way they are. Just send an email to me at <alex@axeuk.com> or ask in the Quest Forum: <http://textadventures.co.uk/forum/quest>
 
 You can create a fork in GitHub, clone it, and then push your changes to that fork. When you have finished working on your issue, send a Pull Request. I'll then review the code, and it can then be merged into the main repository.
 
