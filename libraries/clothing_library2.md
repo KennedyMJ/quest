@@ -19,7 +19,7 @@ With this library installed you will find a new tab 'wearable' in the object
 
 If you want to customize this library for other languages, open the file wearable.aslx with a texteditor and translate the templates.
 
-[Download](http://www.textadventures.co.uk/forum/viewtopic.php?f=10&t=2901#p19955)
+[Download](http://textadventures.co.uk/forum/samples/topic/2901/extended-wearables-library)
 
 #### Player Commands
 

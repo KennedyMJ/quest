@@ -9,7 +9,7 @@ Contributed by: <span class="author">The Pixie</span>
 
 You are free to use this library in your own games, without crediting me, as long as the library is not modified. If you do want to modify the library, then you are free to do so, but please keep some attribution to me with it, at a minimum as a comment in the XML.
 
-[Download](http://forum.textadventures.co.uk/download/file.php?id=1122)
+[Download](https://textadventures.co.uk/attachment/799)
 
 There are two types of goods handled by this library:
   

@@ -19,5 +19,4 @@ Documentation for the libraries on the Resources page is below.
 -   [Implement a Lift](guides/implement_a_lift.html) (or any simple transport system)
 -   [Elevator](libraries/elevator.html) (advanced)
 -   [Path library](libraries/path_library.html)
--   [MetaLib](guides/competition_entry.html)
 

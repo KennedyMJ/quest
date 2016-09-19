@@ -6,8 +6,8 @@ title: Elevator
 Created by jaynabonne
 ---------------------
 
-[Download](http://forum.textadventures.co.uk/download/file.php?id=371)
-[Discussion](http://forum.textadventures.co.uk/viewtopic.php?f=10&t=3212&p=21434&hilit=elevator#p21425)
+[Download](http://textadventures.co.uk/attachment/371)
+[Discussion](http://textadventures.co.uk/forum/samples/topic/3212/elevator-action)
 
 Basically, an elevator is a room that moves among a set of other rooms in an orderly way. To create an elevator, you set up a parameters object with a list of "floor parameter" objects (each of which specifies the target exit room and the room designation), and then you invoke Elevator\_Create. It probably sounds more complicated than it actually is. Check out the sample to see how it works.
 

@@ -3,6 +3,10 @@ layout: index
 title: Implement a Lift
 ---
 
+<div class="alert alert-info">
+This page needs updating with the correct links
+</div>
+
 NB: This page and the downloadable library have now been updated for Quest 5.4.
 
 This is a way to implement a system in which the player walks into the device, presses a button and is taken to a destination. This could be a lift, but it might be an automated rail system or a robotic car or whatever.

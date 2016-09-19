@@ -35,8 +35,8 @@ You can also have exits that can only be used at certain times (say for a shop o
 
 ![](clock2.png "clock2.png")
 
-[Download]({{site.baseurl}}/files/clock.zip)
-[Discussion](http://www.axeuk.com/phpBB3/viewtopic.php?f=10&t=2580)
+[Download](http://textadventures.co.uk/attachment/115)
+[Discussion](http://textadventures.co.uk/forum/samples/topic/2580/clock-library-for-handling-game-time)
 
 #### Functions
 

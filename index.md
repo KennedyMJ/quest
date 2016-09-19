@@ -76,6 +76,6 @@ If you would like to help with developing Quest, please see the [Developers](dev
 
 If you find a bug, please log it on the [Issue Tracker](https://github.com/textadventures/quest/issues).
 
-You can also discuss Quest at [the forum](http://forum.textadventures.co.uk/viewforum.php?f=10).
+You can also discuss Quest at [the forum](http://textadventures.co.uk/forum/quest).
 
 Quest is completely open source, including this documentation! The source code and documentation both live [on GitHub](https://github.com/textadventures/quest) (documentation is in the `gh-pages` branch).

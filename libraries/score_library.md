@@ -24,8 +24,8 @@ Optionally, you might prefer to modify the score command so it calls PrintScore,
 
 This should be robust enough to handle nagative scores and scores over the maximum score.
 
-[Download]({{site.baseurl}}/files/score_demo.zip)
-[Discuss](http://www.axeuk.com/phpBB3/viewtopic.php?f=10&t=2627)
+[Download](http://textadventures.co.uk/attachment/132)
+[Discuss](http://textadventures.co.uk/forum/samples/topic/2627/library-keeping-score)
 
 #### Functions
 

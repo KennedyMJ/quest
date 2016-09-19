@@ -18,8 +18,8 @@ You are free to use this library in your own games, without crediting me, as lon
 
 3.  Anywhere in you game where you want an event noted (if the player is carrying her journal), invoke the AddToJournal command, with the string to be added as a parameter.
 
-[Download]({{site.baseurl}}/files/journal_lib.aslx)
-[Discussion](http://forum.textadventures.co.uk/viewtopic.php?f=10&t=2610)
+[Download](http://textadventures.co.uk/attachment/695)
+[Discussion](http://textadventures.co.uk/forum/samples/topic/2610/library-adding-a-journal)
 
 #### Functions
 

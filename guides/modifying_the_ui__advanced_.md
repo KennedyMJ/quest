@@ -280,11 +280,11 @@ Other Tricks
 
 Some interesting threads from the forum.
 
-["Classic" look](http://forum.textadventures.co.uk/viewtopic.php?f=10&t=4760&hilit=background&start=15#p31389)
+["Classic" look](http://textadventures.co.uk/forum/quest/topic/4760/classic-look-text-adventure-and-customisation#31389)
 
-[Make a certain letter disappear and reappear](http://forum.textadventures.co.uk/viewtopic.php?f=10&t=5121)
+[Make a certain letter disappear and reappear](http://textadventures.co.uk/forum/quest/topic/5121/erasing-a-specific-letter)
 
-[Blurring text (getting drunk)](http://forum.textadventures.co.uk/viewtopic.php?f=10&t=4947)
+[Blurring text (getting drunk)](http://textadventures.co.uk/forum/quest/topic/4947/getting-drunk)
 
-[Injecting stylesheets (CSS in a string attribute on the game object)](http://forum.textadventures.co.uk/viewtopic.php?f=18&t=4747)
+[Injecting stylesheets (CSS in a string attribute on the game object)](http://textadventures.co.uk/forum/samples/topic/4747/injecting-permanent-style-sheets-from-strings)
 
